@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/9974793e-e6ff-4a67-836f-59cf8628c76e
+
 # Ecommerce Website
 
 A full-featured ecommerce website built with PHP, MySQL, Bootstrap, and FontAwesome. This project allows users to browse products, add items to their cart, place orders, and manage their accounts. Admins can manage products, categories, brands, and view orders.
